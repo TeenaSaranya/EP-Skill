@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Students SYSTEM "Students.dtd">
+<Student>
+	<student id="a">
+		<no>190031233</no>
+		<name>Teena</name>
+		<email>teena@gmail.com</email>
+		<marks>9</marks>
+		<class>2nd year</class>
+	</student>
+	
+	<student id="b">
+		<no>190031460</no>
+		<name>Grace</name>
+		<email>grace@gmail.com</email>
+		<marks>8</marks>
+		<class>2nd year</class>
+	</student>
+	
+	<student id="c">
+		<no>190031316</no>
+		<name>Vineetha</name>
+		<email>vineetha@gmail.com</email>
+		<marks>6</marks>
+		<class>2nd year</class>
+	</student>
+	
+	<student id="d">
+		<no>190031193</no>
+		<name>Sowjanya</name>
+		<email>sowjanya@gmail.com</email>
+		<marks>7</marks>
+		<class>2nd year</class>
+	</student>
+	
+	<student id="e">
+		<no>190030927</no>
+		<name>Sreya</name>
+		<email>sreya@gmail.com</email>
+		<marks>8</marks>
+		<class>2nd year</class>
+	</student>
+</Student>
